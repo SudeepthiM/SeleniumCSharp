@@ -1,0 +1,4 @@
+<Playlist Version="1.0">
+<Add Test="BBCWeather.UnitTest1.GotoURL" />
+<Add Test="BBCWeather.UnitTest1.FurtherAhead" />
+</Playlist>
